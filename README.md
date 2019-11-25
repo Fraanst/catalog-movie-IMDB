@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Catalog of Movies
+Catalog of Movies with IMDB API
 
 ## Available Scripts
 
